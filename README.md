@@ -1,4 +1,4 @@
-# Ashwin Kumar — Portfolio
+# Ashwin Anil — Portfolio
 
 React + Flask personal portfolio. Clean, minimal, built to attract Data Scientist / ML Engineer roles.
 
